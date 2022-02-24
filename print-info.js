@@ -6,5 +6,3 @@ const cliente = {
 }
 
 console.log(` Meu nome é ${cliente.nome} e tenho ${cliente.idade} anos`)
-
-
