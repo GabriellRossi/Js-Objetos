@@ -34,3 +34,15 @@ function oferecerSeguro(obj) {
 }
 
 oferecerSeguro(cliente)
+
+// console.log(Object.values(cliente))
+// console.log(Object.entries(cliente))
+
+
+/*
+  Object.entries() retorna um array cujos elementos são também arrays correspondentes aos pares de propriedades [key, value] enumeráveis encontrados diretamente sobre o objeto. A ordem das propriedades é a mesma que seria se fossem iteradas as propriedades do objeto manualmente.
+*/
+
+/*
+  Object.values() retorna um array cujos elementos são os valores das propriedades enumeradas encontradas no objeto. A ordem das propriedades é a mesma que a dada pelo laço sobre os valores da propriedade do objeto manualmente.
+*/
